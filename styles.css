@@ -13,6 +13,12 @@ h1 {
 h3 {
   color: #66bfbf;
 }
-.pic {
+img {
   border-radius: 50%;
+}
+h1:hover, h3:hover{
+color: #D23369;
+}
+.pic {
+  border-radius: 100%;
 }
